@@ -6,7 +6,7 @@
 
 <h1 align="center">INF325 - Modelagem e Projeto de Bancos de Dados</h1>
 <p align="center"><em><a href="https://github.com/matheusmota" target="_blank">Prof. Matheus Mota</a></em></p>
-Este repositório é destinado aos laboratórios da disciplina INF325 do curso de especialização em Engenharia de Software do Instituto de Computação da Unicamp.
+Este repositório é destinado aos laboratórios com MongoDB para a disciplina INF325 do curso de especialização em Engenharia de Software do Instituto de Computação da Unicamp.
 <br /><br />
 
 > Para informações sobre a disciplina consulte o [LINK](https://ic.unicamp.br/wp-content/uploads/2019/10/INF-0325-Modelagem-e-Projeto-de-Banco-de-Dados.pdf).
@@ -18,7 +18,6 @@ Este repositório é destinado aos laboratórios da disciplina INF325 do curso d
 
 ## :computer: Laboratórios
 * [Lab1](https://github.com/rmmarquini/engsoft-inf325-labs/tree/master/lab1)
-* [Lab2](https://github.com/rmmarquini/engsoft-inf325-labs/tree/master/lab2)
 
 ## :memo: Licença
 MIT license.
