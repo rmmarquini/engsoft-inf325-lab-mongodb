@@ -18,7 +18,6 @@ Este repositório é destinado aos laboratórios da disciplina INF325 do curso d
 
 ## :computer: Laboratórios
 * [Lab1](https://github.com/rmmarquini/engsoft-inf325-labs/tree/master/lab1)
-* [Lab2](https://github.com/rmmarquini/engsoft-inf325-labs/tree/master/lab2)
 
 ## :memo: Licença
 MIT license.
