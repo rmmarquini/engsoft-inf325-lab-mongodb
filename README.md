@@ -17,7 +17,7 @@ Este repositório é destinado aos laboratórios com MongoDB para a disciplina I
 * Equipe 9
 
 ## :computer: Laboratórios
-* [Lab1](https://github.com/rmmarquini/engsoft-inf325-labs/tree/master/lab1)
+* [Lab1](https://github.com/rmmarquini/engsoft-inf325-lab-mongodb/tree/master/lab1)
 
 ## :memo: Licença
 MIT license.
